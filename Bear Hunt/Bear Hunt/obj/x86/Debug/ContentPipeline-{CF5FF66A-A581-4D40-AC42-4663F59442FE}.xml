@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Backgrounds\BearHuntBackground.png</Source>
+      <Name>Images\Backgrounds\BearHuntBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Images\Backgrounds\BearHuntBackground.xnb</Output>
+      <Time>2017-12-20T10:32:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Backgrounds\AngryBear.png</Source>
+      <Name>Images\Backgrounds\AngryBear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Images\Backgrounds\AngryBear.xnb</Output>
+      <Time>2017-12-29T16:11:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pictures\StartButton.png</Source>
+      <Name>Images\Pictures\StartButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Images\Pictures\StartButton.xnb</Output>
+      <Time>2017-12-29T15:38:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pictures\InstructButton.png</Source>
+      <Name>Images\Pictures\InstructButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Images\Pictures\InstructButton.xnb</Output>
+      <Time>2017-12-29T16:41:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pictures\LeaderBoardButton.png</Source>
+      <Name>Images\Pictures\LeaderBoardButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Images\Pictures\LeaderBoardButton.xnb</Output>
+      <Time>2017-12-29T16:36:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pictures\ExitButton.png</Source>
+      <Name>Images\Pictures\ExitButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Images\Pictures\ExitButton.xnb</Output>
+      <Time>2017-12-29T16:36:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pictures\Whiteline.PNG</Source>
+      <Name>Images\Pictures\Whiteline</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Images\Pictures\Whiteline.xnb</Output>
+      <Time>2017-12-31T10:49:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pictures\Bullet.png</Source>
+      <Name>Images\Pictures\Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Images\Pictures\Bullet.xnb</Output>
+      <Time>2017-12-31T11:18:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pictures\Fish.jpg</Source>
+      <Name>Images\Pictures\Fish</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Images\Pictures\Fish.xnb</Output>
+      <Time>2017-12-31T12:39:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BirdFlyingSpriteSheet.png</Source>
+      <Name>Sprites\BirdFlyingSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Sprites\BirdFlyingSpriteSheet.xnb</Output>
+      <Time>2018-01-08T21:58:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BirdFlyingSpriteSheetRev.png</Source>
+      <Name>Sprites\BirdFlyingSpriteSheetRev</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Sprites\BirdFlyingSpriteSheetRev.xnb</Output>
+      <Time>2018-01-09T10:48:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WolfRunningSpriteSheetRev.png</Source>
+      <Name>Sprites\WolfRunningSpriteSheetRev</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Sprites\WolfRunningSpriteSheetRev.xnb</Output>
+      <Time>2018-01-09T16:11:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WolfRunningSpriteSheet.png</Source>
+      <Name>Sprites\WolfRunningSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Sprites\WolfRunningSpriteSheet.xnb</Output>
+      <Time>2018-01-09T16:15:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BearWalkingSpriteSheet.png</Source>
+      <Name>Sprites\BearWalkingSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Sprites\BearWalkingSpriteSheet.xnb</Output>
+      <Time>2018-01-09T20:09:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BearWalkingSpriteSheetRev.png</Source>
+      <Name>Sprites\BearWalkingSpriteSheetRev</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Sprites\BearWalkingSpriteSheetRev.xnb</Output>
+      <Time>2018-01-09T20:12:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BirdShot.png</Source>
+      <Name>Sprites\BirdShot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Sprites\BirdShot.xnb</Output>
+      <Time>2018-01-11T11:03:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BirdDead.png</Source>
+      <Name>Sprites\BirdDead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Sprites\BirdDead.xnb</Output>
+      <Time>2018-01-11T18:18:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BearDead.png</Source>
+      <Name>Sprites\BearDead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Sprites\BearDead.xnb</Output>
+      <Time>2018-01-14T22:23:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WolfDead.png</Source>
+      <Name>Sprites\WolfDead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Sprites\WolfDead.xnb</Output>
+      <Time>2018-01-15T10:55:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pictures\CrossHair.png</Source>
+      <Name>Images\Pictures\CrossHair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Images\Pictures\CrossHair.xnb</Output>
+      <Time>2018-01-20T22:55:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pictures\Fishpot.png</Source>
+      <Name>Images\Pictures\Fishpot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Images\Pictures\Fishpot.xnb</Output>
+      <Time>2018-01-20T23:47:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pictures\Homebutton.png</Source>
+      <Name>Images\Pictures\Homebutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Images\Pictures\Homebutton.xnb</Output>
+      <Time>2018-01-21T00:51:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pictures\BackButton.png</Source>
+      <Name>Images\Pictures\BackButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Images\Pictures\BackButton.xnb</Output>
+      <Time>2018-01-21T13:57:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pictures\NextButton.png</Source>
+      <Name>Images\Pictures\NextButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Images\Pictures\NextButton.xnb</Output>
+      <Time>2018-01-21T14:07:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Backgrounds\InstructScreen2.png</Source>
+      <Name>Images\Backgrounds\InstructScreen2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Images\Backgrounds\InstructScreen2.xnb</Output>
+      <Time>2018-01-21T14:42:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Backgrounds\EndScreen.png</Source>
+      <Name>Images\Backgrounds\EndScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Images\Backgrounds\EndScreen.xnb</Output>
+      <Time>2018-01-21T20:51:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pictures\MainBtn.png</Source>
+      <Name>Images\Pictures\MainBtn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Images\Pictures\MainBtn.xnb</Output>
+      <Time>2018-01-21T16:01:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Backgrounds\InstructionScreen.png</Source>
+      <Name>Images\Backgrounds\InstructionScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Images\Backgrounds\InstructionScreen.xnb</Output>
+      <Time>2018-01-21T18:50:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Backgrounds\StatsScreen.png</Source>
+      <Name>Images\Backgrounds\StatsScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Images\Backgrounds\StatsScreen.xnb</Output>
+      <Time>2018-01-21T19:11:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Pictures\BHIcon.png</Source>
+      <Name>Images\Pictures\BHIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Images\Pictures\BHIcon.xnb</Output>
+      <Time>2018-01-21T22:16:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\ScoreFont.spritefont</Source>
+      <Name>Font\ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Font\ScoreFont.xnb</Output>
+      <Time>2017-12-31T10:44:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\EndFont.spritefont</Source>
+      <Name>Font\EndFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Font\EndFont.xnb</Output>
+      <Time>2018-01-21T15:50:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\Statistics.spritefont</Source>
+      <Name>Font\Statistics</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Font\Statistics.xnb</Output>
+      <Time>2018-01-21T20:21:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Songs\RockMusic.mp3</Source>
+      <Name>Audio\Songs\RockMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Audio\Songs\RockMusic.xnb</Output>
+      <Extra>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Audio\Songs\RockMusic.wma</Extra>
+      <Time>2018-01-21T12:46:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SoundEffects\GunShot.wav</Source>
+      <Name>Audio\SoundEffects\GunShot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Audio\SoundEffects\GunShot.xnb</Output>
+      <Time>2018-01-21T12:32:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SoundEffects\BearGrowl.wav</Source>
+      <Name>Audio\SoundEffects\BearGrowl</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Audio\SoundEffects\BearGrowl.xnb</Output>
+      <Time>2018-01-21T13:07:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SoundEffects\WolfHowl.wav</Source>
+      <Name>Audio\SoundEffects\WolfHowl</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Audio\SoundEffects\WolfHowl.xnb</Output>
+      <Time>2018-01-21T13:27:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SoundEffects\CrowCall.wav</Source>
+      <Name>Audio\SoundEffects\CrowCall</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Audio\SoundEffects\CrowCall.xnb</Output>
+      <Time>2018-01-21T13:35:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SoundEffects\Reloading.wav</Source>
+      <Name>Audio\SoundEffects\Reloading</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\Audio\SoundEffects\Reloading.xnb</Output>
+      <Time>2018-01-21T21:37:38-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{CF5FF66A-A581-4D40-AC42-4663F59442FE}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear HuntContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1\ISU_VibeesshananThevamanoharan\Bear Hunt\Bear Hunt\Bear Hunt\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-02-19T23:36:24.3164466-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
